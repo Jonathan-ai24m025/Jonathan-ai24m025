@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm a student at some school! Wow!
+
+- 🌱 I’m currently learning AI
+
+- ⚡ Fun fact: There is no fun fact...
+
 <!--
 **Jonathan-ai24m025/Jonathan-ai24m025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
